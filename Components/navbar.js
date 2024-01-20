@@ -11,7 +11,7 @@ let navbar = (abc)=>{
       </div>
       <div id="navsearch">
       <div class="navdropdwn">
-            <input type="text" id="search" placeholder="Try Liquid Liptick" />
+            <input type="text" id="search" placeholder="Try Liquid Lipstick" />
             <div class="sdropcontent">
               <div class="picks"><span> <i class="fa-solid fa-arrow-trend-up"></i></span>Frequently Searched</div>
               <div id="twenty_hr">
@@ -237,7 +237,7 @@ let fotter = ()=>{
     </div>
   </div>
   <div id="bottomhr"></div>
-  <p class="bottxt">Copyright © 2022 SUGAR Cosmetics. All rights reserved.</p>
+  <p class="bottxt">Copyright © 2024 SUGAR Cosmetics. All rights reserved.</p>
 </div>`
 }
 export {navbar,fotter}
