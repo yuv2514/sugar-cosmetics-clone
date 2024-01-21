@@ -1,17 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100&family=Inter:wght@200;700&family=Nunito+Sans:wght@200&family=Open+Sans:wght@300;400&family=Poppins:wght@200;300;500&family=Quicksand:wght@300&family=Ubuntu:wght@500&display=swap');      
 *{
   font-family:Quicksand ;
-  /* background-color: black; */
+   
+  
 }
 #navmain {
   display: flex;
   justify-content: space-around;
 
-  background-color: rgba(253, 246, 246, 0.61);
+  background-color: rgba(253, 243, 243, 0.61);
 }
 #navsearch {
   width: 45%;
   display: flex;
+/* background-color: black; */
 }
 #search {
     border: none;
@@ -23,14 +25,14 @@
   height: 85%;
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
-  background-color: dark white;
+  background-color:white;
 }
 #nav_btn{ 
    cursor: pointer;
     width: 200%;
     height: 85%;
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
     background-color: black;
     color: white;
     padding: 8px;
