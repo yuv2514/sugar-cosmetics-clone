@@ -1,7 +1,4 @@
-# sugar-cosmetics-clone
-Certainly! Below is an example of a README file for a commercial website clone developed for Sugar Cosmetics. Please note that this is a generic template, and you should customize it based on the specific details and features of your project.
-
-```markdown
+markdown
 # Sugar Cosmetics Website Clone
 
 ## Overview
@@ -64,6 +61,10 @@ npm start
 
 Visit `http://localhost:3000` in your browser to view the application.
 
+## Live Demo
+
+The Sugar Cosmetics website clone is available at [https://euphonious-gumption-d75783.netlify.app/index.html](https://euphonious-gumption-d75783.netlify.app/index.html).
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
@@ -73,4 +74,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Make sure to replace placeholders like `your-username`, `your_mongodb_connection_string`, `your_jwt_secret_key`, and `your_stripe_secret_key` with actual details related to your project. Additionally, customize the technologies used, features, and installation instructions based on the specific implementation of your Sugar Cosmetics website clone.
+Make sure to replace `https://euphonious-gumption-d75783.netlify.app/index.html` with the actual URL where your Sugar Cosmetics website clone is hosted on Netlify.
